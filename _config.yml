@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gafari Lukumon / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Gafari"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lukgaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lukgaf/lukgaf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gafari Lukumon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A final year Cognitive Science Ph.D. student at the School of Collective Intelligence, University Mohammed VI Polytechnic, Morocco (UM6P), and Ecole Normale Supérieure, Paris (Cotutelle) under Brent Strickland. I am currently in the process of applying to defend my thesis this semester. My background was in mathematics - I hold bachelor’s and master’s degrees in mathematics from the University of KwaZulu-Natal, South Africa (UKZN) and Ekiti State University, Nigeria, respectively, where I graduated with Distinctions. "
+  location         : "Morocco"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lukgaf"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "lukgaf"
   vine             :
   weibo            :
   xing             :
