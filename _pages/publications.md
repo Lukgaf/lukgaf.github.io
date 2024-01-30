@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 JOURNAL PUBLICATIONS (from Ph.D. projects)
+======
 
 1.  Lukumon, G., & Klein, M. (2023). Crowd-sourced idea filtering with Bag of Lemons: the impact of the token budget size. Decision, 50(2), 205-219. [Link]
 
@@ -18,6 +19,7 @@ WORKING PAPERS (from Ph.D. projects, drafts available)
 4.  Lukumon, G., Byrd N., & Strickland B. Adversarial collaboration among fact-checkers: bipartisanship outweighs partisanship in preferences and trust towards news. (in preparation).
 
 JOURNAL PUBLICATIONS (others)
+======
 
 5.  El Habouz, Y., El Mourabit, Y., Iggane, M., El Habouz, H., Lukumon, G., & Nouboud, F. (2023). Efficient semi-supervised learning model for limited otolith data using generative adversarial networks. Multimedia Tools and Applications, 1-14. [Link]
 
@@ -37,6 +39,7 @@ JOURNAL PUBLICATIONS (others)
 
 
 PEER-REVIEWED CONFERENCE PROCEEDINGS 
+======
 
 13. Lukumon, G., Cusimano, C., & Strickland B (2023). Optimism and attribution of dis(loyalty) in Group. Proc. of the 2023 SJDM annual conference. [Link]
 
@@ -52,7 +55,7 @@ Gordon equation in an Unbounded Domain. Proc. of CAES, UKZN Postgraduate Researc
 
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=qc6GkvgAAAAJ&hl=en}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}

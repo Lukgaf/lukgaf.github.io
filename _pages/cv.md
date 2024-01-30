@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc (Ed., Hons) in Mathematics, 2015 
+  * Ekiti State University
+* M.Sc in Mathematics
+  * University of KwaZulu-Natal, South Africa
+* Ph.D in Cognitive Science (ongoing)
+  * University of Mohammed VI Polytechnic, Morocco & Ecole Normale Suprieure, France (Cotutelle)
 
 Work experience
 ======
