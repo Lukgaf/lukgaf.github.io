@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Cognitive Science Ph.D. student at the [School of Collective Intelligence](https://sci.um6p.ma/), University Mohammed VI Polytechnic, Morocco (UM6P), and Ecole Normale Supérieure, Paris (Cotutelle) under the mentorship of a great cognitive scientist, Professor [Brent Strickland](http://www.brentstrickland.net/). I am currently in the process of defending my thesis. My background was in mathematics - I hold a Bachelor and Master degrees in mathematics from the [University of KwaZulu-Natal, South Africa](https://www.ukzn.ac.za) (UKZN) and [Ekiti State University](https://www.eksu.edu.ng), Nigeria, respectively, where I graduated with Distinctions. 
+I am a final year Cognitive Science Ph.D. student at the [School of Collective Intelligence](https://sci.um6p.ma/), University Mohammed VI Polytechnic, Morocco (UM6P), and Ecole Normale Supérieure, Paris (Cotutelle) under the mentorship of a great cognitive scientist, Professor [Brent Strickland](http://www.brentstrickland.net/) (IJN, ENS-PSL) and computer scientist, Professor [Mark Klein](https://deliberatorium.org/homepage/index.html) (MIT). I am currently in the process of defending my thesis. My background was in mathematics - I hold a Bachelor and Master degrees in mathematics from the [University of KwaZulu-Natal, South Africa](https://www.ukzn.ac.za) (UKZN) and [Ekiti State University](https://www.eksu.edu.ng), Nigeria, respectively, where I graduated with Distinctions. 
 
 My research investigates the spread of bias (notably myside bias/confirmation bias) and misinformation within groups. My goal is to identify ways to improve the spread of accurate information while concurrently reducing the dissemination of misinformation and interested in interventions at both the individual and group levels. 
 
@@ -36,7 +36,7 @@ Apply for 2024 Free JAMB/UTME Mathematics tutorials.
 
 In the news
 ======
-[Why I teach Mathematics in Yoruba?] (https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
+[Why I teach Mathematics in Yoruba] (https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
 
-[Urgent need to decentralise certificate authentication in Nigeria](https://trustradio.com.ng/#gsc.tab=0), [Daily trust](https://dailytrust.com/urgent-need-to-decentralise-certificate-authentication/)
+[Urgent need to decentralise certificate authentication in Nigeria](https://trustradio.com.ng/#gsc.tab=0) [Also on Daily trust](https://dailytrust.com/urgent-need-to-decentralise-certificate-authentication/)
 

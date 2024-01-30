@@ -10,6 +10,7 @@ JOURNAL PUBLICATIONS (from Ph.D. projects)
 1.  Lukumon, G., & Klein, M. (2023). Crowd-sourced idea filtering with Bag of Lemons: the impact of the token budget size. Decision, 50(2), 205-219. [Link]
 
 WORKING PAPERS (from Ph.D. projects, drafts available)
+======
 
 2.  Lukumon, G., Picat, L., Chemla, E., & Strickland B. Myside Bias in Scientific Decision-Making: Exploring Speed-Accuracy Trade-Offs and Implications for Biases and Scientific Communities. (under review in Cognitive Science).
 
@@ -47,13 +48,13 @@ PEER-REVIEWED CONFERENCE PROCEEDINGS
 
 15. Lukumon, G; & Klein, M. (2021). Idea filtering with Bag of Lemons. Proceedings of 2021 UM6P JDD Conference, UM6P. [Link]
 
-   16.  Lukumon, G., Shindin, S., & Parumasur N. (2019). On Lax Pairs analysis of the Sine-Gordon
+16.  Lukumon, G., Shindin, S., & Parumasur N. (2019). On Lax Pairs analysis of the Sine-Gordon
 equation. Proc of CAES, UKZN Postgraduate Research and Innovation Symposium.  [Link]
 
-    17.    Lukumon, G., Shindin, S., & Parumasur N. (2018). On the numerical Solution of the Klein-
+17.    Lukumon, G., Shindin, S., & Parumasur N. (2018). On the numerical Solution of the Klein-
 Gordon equation in an Unbounded Domain. Proc. of CAES, UKZN Postgraduate Research and Innovation Symposium. [Link]
 
-
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=qc6GkvgAAAAJ&hl=en}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -63,3 +64,4 @@ Gordon equation in an Unbounded Domain. Proc. of CAES, UKZN Postgraduate Researc
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
