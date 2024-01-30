@@ -20,7 +20,7 @@ In another line, I found misinformation could be reduced through "adversarial co
 
 In [(Lukumon G; and Klein M, 2023)](https://link.springer.com/article/10.1007/s40622-023-00349-w), I examined types of information people are best at spotting (good vs. bad) and a technique meant to assist collective innovation called "crowd-based" idea filtering and the effect of token budget sizes. 
 
-Also, in the past, I researched ways to improve math education and to improve students’ and teachers’ attitudes towards math [Lukumon, G., & Maharaj, A., 2022](https://www.tandfonline.com/doi/abs/10.1080/18117295.2022.2075173); [Maharaj, A; and Lukumon G., 2021] (https://www.kansaiuniversityreports.com/article/commerce-students-ability-to-correctly-apply-integration-rules). 
+Also, in the past, I researched ways to improve math education and to improve students’ and teachers’ attitudes towards math [Lukumon, G., & Maharaj, A., 2022](https://www.tandfonline.com/doi/abs/10.1080/18117295.2022.2075173); [Maharaj, A; and Lukumon G., 2021](https://www.kansaiuniversityreports.com/article/commerce-students-ability-to-correctly-apply-integration-rules). 
 
 Apart from my academic pursuits, I have demonstrated a capacity to effectively mentor and lead others. For instance, I am the founder of the [Hotspot International Scholars Forum](https://www.hotspotisf.com) (HISF, formerly International Scholarship Forum). I initiated this project to provide students with scholarship information and mentorship, all free of charge. At present, the initiative boasts nearly 5000 members in the WhatsApp groups, over 20,000 followers on [Twitter](https://twitter.com/forum_isf), and a [repository](https://drive.google.com/drive/u/0/folders/1UVI5yT-5JfMwyHHloxPwkuuPm08L_zBn) of over a thousand scholarship resources on the shared drive. 
 
@@ -36,7 +36,7 @@ Apply for 2024 Free JAMB/UTME Mathematics tutorials.
 
 In the news
 ======
-[Why I teach Mathematics in Yoruba] (https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
+[Why I teach Mathematics in Yoruba?](https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
 
 [Urgent need to decentralise certificate authentication in Nigeria](https://trustradio.com.ng/#gsc.tab=0) [Also on Daily trust](https://dailytrust.com/urgent-need-to-decentralise-certificate-authentication/)
 
